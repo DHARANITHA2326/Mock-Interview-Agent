@@ -1,0 +1,6 @@
+{
+  "name": "AI Mock Interview Platform",
+  "description": "A comprehensive AI-powered mock interview and coding assessment platform featuring adaptive question generation, speech-to-text response processing, real-time feedback, and ATS resume analyzer.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
